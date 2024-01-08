@@ -1,0 +1,6 @@
+streamlit
+pandas
+sqlalchemy==1.4.40
+openai==0.28.0
+selenium
+requests
