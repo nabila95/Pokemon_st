@@ -1,7 +1,6 @@
 import streamlit as st
 import sqlalchemy as db
 import pandas as pd
-from IPython.display import YouTubeVideo
 import requests, openai, os
 # Connexion à la base de données SQLite
 engine = db.create_engine('sqlite:///pokemon.db')
