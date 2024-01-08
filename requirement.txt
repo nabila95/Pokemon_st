@@ -1,6 +1,6 @@
 streamlit
 pandas
-sqlalchemy==1.4.40
+sqlalchemy
 openai==0.28.0
 selenium
 requests
